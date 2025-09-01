@@ -39,6 +39,9 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 
 ## OUTPUT:
+![alt text](<Screenshot 2025-09-01 083140.png>)
+
+![alt text](<Screenshot 2025-09-01 083120.png>)
 
 
 ## RESULT:
